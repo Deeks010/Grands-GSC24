@@ -102,7 +102,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 ### b)To run in local computer -
 1) Clone Repo
 ```
-https://github.com/Deeks010/Grands.git
+https://github.com/zmrishh/Grands-GSC24.git
 ```
 2) Install the required tools 🛠️ 
 ```
@@ -115,5 +115,7 @@ snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno"
 ```
 4) Launch the application
 ```
+flutter pub get
+flutter run
 ```
 
