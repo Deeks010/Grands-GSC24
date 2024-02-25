@@ -105,9 +105,9 @@ Grands provides a feature that fosters connections among users, enabling them to
 git clone https://github.com/zmrishh/Grands-GSC24.git
 ```
 2) Download flutter in local PC
-   ```
-  [Flutter `(Version 3.13.8)`](https://docs.flutter.dev/get-started/install)
-  ```
+```
+[Flutter `(Version 3.13.8)`](https://docs.flutter.dev/get-started/install)
+```
 3) Run the following code in bash to install the required dependencies 
 ```
 flutter pub get
