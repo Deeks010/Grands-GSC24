@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "85541936487",
+    "project_id": "grands-6a5b4",
+    "storage_bucket": "grands-6a5b4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:85541936487:android:e5d7ff026ad8397de563c2",
+        "android_client_info": {
+          "package_name": "com.unfazed.grands"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "85541936487-3qt7e3ak78dtjt5mdogdaft5krmqmic9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAsxQxtfH1Mi16XJVdwgyc55L7C5Ya_7Us"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "85541936487-3qt7e3ak78dtjt5mdogdaft5krmqmic9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "85541936487-ugaci56l7a07j322ctv5p3da48pq21qp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.unfazed.grands"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
