@@ -123,7 +123,7 @@ flutter pub get
 flutter run
 ```
 
-## Avi
+## Avi-voice cloning 🎙️
 1) Install the required tools 🛠️
 ```
 pip install -r requirements.txt
