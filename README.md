@@ -97,7 +97,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 </kbd>
 </div>
 <div align="center">
-<h4>Flutter | Dart | Firebase | Bark | Gemini | Fastapi |</h4>
+<h4>Flutter | Dart | Firebase | Bark | Gemini | Fastapi </h4>
 </div>
 
 
