@@ -2,7 +2,7 @@
 
 <div >
     <div align="center">
-        <img width="300px" src="assets/images/Grands logo.png" alt=""/>
+        <img width="300px" src="assets/images" alt=""/>
     </div>
     <div>
 
