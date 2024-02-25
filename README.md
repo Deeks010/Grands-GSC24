@@ -106,7 +106,7 @@ git clone https://github.com/zmrishh/Grands-GSC24.git
 ```
 2) Download Flutter in local PC 💻
 ```
- Flutter (Version 3.13.8)
+Flutter (Version 3.13.8)
 ```
 3) Run the following code in bash to install the required dependencies 
 ```
@@ -120,7 +120,7 @@ flutter run
 ## Avi
 1) Install the required tools 🛠️
 ```
-   pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 3) Download the Bark model in local PC 💻
 ```
@@ -129,7 +129,7 @@ snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno")
 ```
 3) Run the python file
 ```
-    python voice_cloning.py
+python voice_cloning.py
  ```
    
 
