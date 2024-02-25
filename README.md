@@ -1,3 +1,8 @@
+<div >
+    <div align="center">
+        <img width="300px" src="assets/images/Grands logo.png" alt=""/>
+    </div>
+    <div>
 
 # Grands
 
