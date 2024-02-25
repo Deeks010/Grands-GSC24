@@ -117,3 +117,19 @@ flutter pub get
 flutter run
 ```
 
+## Avi
+1) Install the required tools 🛠️
+```
+   pip install -r requirements.txt
+```
+3) Download the Bark model in local PC 💻
+```
+from huggingface_hub import snapshot_download
+snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno")
+```
+3) Run the python file
+```
+    python voice_cloning.py
+ ```
+   
+
