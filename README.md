@@ -104,9 +104,9 @@ Grands provides a feature that fosters connections among users, enabling them to
 ```
 git clone https://github.com/zmrishh/Grands-GSC24.git
 ```
-2) Download Flutter in local PC
+2) Download Flutter in local PC 💻
 ```
- Flutter (Version 3.13.8)(https://docs.flutter.dev/get-started/install/windows/mobile?tab=download)
+ Flutter (Version 3.13.8)
 ```
 3) Run the following code in bash to install the required dependencies 
 ```
