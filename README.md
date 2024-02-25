@@ -115,5 +115,7 @@ snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno"
 ```
 4) Launch the application
 ```
+flutter pub get
+flutter run
 ```
 
