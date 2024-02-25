@@ -139,7 +139,9 @@ python preprocessing.py
 from huggingface_hub import snapshot_download
 snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno")
 ```
-2) Run the python file
+2) Download the pytorch for your respective GPU.
+
+3) Run the python file
 ```
 python voice_cloning.py
  ```
