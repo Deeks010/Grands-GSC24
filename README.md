@@ -96,26 +96,24 @@ Grands provides a feature that fosters connections among users, enabling them to
 
 
 
-## How to use 
+## How to use the Grands Application
 ### a) By downloading Grands APK file -
 1) Download the given APK file in your Android and use it .
-### b)To run in local computer -
+### b)To run in local PC -
 1) Clone Repo
 ```
-https://github.com/zmrishh/Grands-GSC24.git
+git clone https://github.com/zmrishh/Grands-GSC24.git
 ```
-2) Install the required tools 🛠️ 
-```
-pip install -r requirements.txt
-```
-3) Install bark model in your local PC 🖥️
+2) Download flutter in local PC
+   ```
+  [Flutter `(Version 3.13.8)`](https://docs.flutter.dev/get-started/install)
   ```
-from huggingface_hub import snapshot_download
-snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno"
+3) Run the following code in bash to install the required dependencies 
+```
+flutter pub get
 ```
 4) Launch the application
 ```
-flutter pub get
 flutter run
 ```
 
