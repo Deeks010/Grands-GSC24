@@ -104,7 +104,7 @@ Grands provides a feature that fosters connections among users, enabling them to
 
 ## How to use the Grands Application
 ### a) By downloading Grands APK file -
-1) Download the given APK file in your Android and use it .
+1) Download the given APK file in your Android and use it 
 ### b)To run in local PC -
 1) Clone Repo
 ```
@@ -139,7 +139,7 @@ python preprocessing.py
 from huggingface_hub import snapshot_download
 snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno")
 ```
-2) Download the pytorch for your respective GPU.
+2) Download the pytorch for your respective GPU
 
 3) Run the python file
 ```
