@@ -1,6 +1,10 @@
 
 # Grands
-
+<div align="center">
+    <div >
+        <img width="200px" src="https://firebasestorage.googleapis.com/v0/b/gsc23-12e94.appspot.com/o/members%2Fheadhome_square.png?alt=media&token=96a55b42-7c9f-4e68-b41f-d986efe79c01" alt=""/>
+    </div>
+    <div>
 Grands is a social media app dedicated to enhancing the well-being of elderly individuals. By fostering social connections, promoting active lifestyles, and providing support, Grands aims to combat loneliness and improve the quality of life for older adults.
 
 ## Problem Statement
