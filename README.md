@@ -124,16 +124,22 @@ flutter run
 ```
 
 ## Avi-voice cloning 🎙️
+#### Before running the model pre-process the input audio 
 1) Install the required tools 🛠️
 ```
 pip install -r requirements.txt
 ```
-3) Download the Bark model in local PC 💻
+2) Preprocess the audio
+```
+python preprocessing.py
+```
+#### After preprocessing perform voice cloning 
+1) Download the Bark model in local PC 💻
 ```
 from huggingface_hub import snapshot_download
 snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno")
 ```
-3) Run the python file
+2) Run the python file
 ```
 python voice_cloning.py
  ```
