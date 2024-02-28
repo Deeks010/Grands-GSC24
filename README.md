@@ -1,12 +1,5 @@
 <div >
     <div align="center">
-        <img width="300px" src="assets/images/Grands logo (1).png" alt=""/>
-    </div>
-    <div>
-
-
-<div >
-    <div align="center">
         <img width="300px" src="assets/images/Grands logo.png" alt=""/>
     </div>
     <div>
