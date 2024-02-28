@@ -4,8 +4,14 @@
     </div>
     <div>
 
-# Grands
 
+<div >
+    <div align="center">
+        <img width="300px" src="assets/images/Grands logo.png" alt=""/>
+    </div>
+    <div>
+
+# Grands
 Grands is a social media app dedicated to enhancing the well-being of elderly individuals. By fostering social connections, promoting active lifestyles, and providing support, Grands aims to combat loneliness and improve the quality of life for older adults.
 
 ## Problem Statement
@@ -96,14 +102,14 @@ Grands provides a feature that fosters connections among users, enabling them to
 </kbd>
 </div>
 <div align="center">
-<h4>Flutter | Dart | Firebase | Bark | Gemini | Fastapi |</h4>
+<h4>Flutter | Dart | Firebase | Bark | Gemini | Fastapi </h4>
 </div>
 
 
 
 ## How to use the Grands Application
 ### a) By downloading Grands APK file -
-1) Download the given APK file in your Android and use it .
+1) Download the given APK file in your Android and use it 
 ### b)To run in local PC -
 1) Clone Repo
 ```
@@ -122,16 +128,24 @@ flutter pub get
 flutter run
 ```
 
-## Avi
+## Avi-voice cloning 🎙️
+#### Before running the model pre-process the input audio 
 1) Install the required tools 🛠️
 ```
 pip install -r requirements.txt
 ```
-3) Download the Bark model in local PC 💻
+2) Preprocess the audio
+```
+python preprocessing.py
+```
+#### After preprocessing perform voice cloning 
+1) Download the Bark model in local PC 💻
 ```
 from huggingface_hub import snapshot_download
 snapshot_download(repo_id="suno/bark",local_dir="suno bark/suno")
 ```
+2) Download the pytorch for your respective GPU [here](https://pytorch.org/)
+
 3) Run the python file
 ```
 python voice_cloning.py
